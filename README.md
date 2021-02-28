@@ -17,6 +17,13 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Acessar o terminal
     `iex -S mix`
 
+# Milha extra
+ * Adicionado dependência para criação de Bearer tokens
+ * Criado uma rota para gerar Bearer tokens para usuários da aplicação
+ * Teste desse novo controlador e do módulo utilizado por esse controlador
+  <p align="center">
+    <img alt="Requisicao" src="./images/tokenGenerated.png" width="60%">
+  </p>
 ## Learn more
 
   * Official website: https://www.phoenixframework.org/
